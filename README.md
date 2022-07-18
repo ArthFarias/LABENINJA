@@ -41,7 +41,7 @@ https://condemned-mask.surge.sh
 ![carrinho com itens](https://user-images.githubusercontent.com/104591781/177049128-1519163a-d55e-4a0c-9b6a-437dcf3bfd82.png)
 ![carrinho](https://user-images.githubusercontent.com/104591781/177049137-206b0ea5-ec4b-4761-a8be-c62c5f1f918c.png)
 
-Responsividade
+### Imagens Responsivas
 
 ![responsividade (2)](https://user-images.githubusercontent.com/104591781/177049490-bc903774-6ab7-4ebf-bb19-ade0af11acb4.jpeg)
 ![responsividade (3)](https://user-images.githubusercontent.com/104591781/177049496-3284a150-3be9-4c58-afb3-4ed5e58d76de.jpeg)
